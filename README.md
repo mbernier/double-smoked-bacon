@@ -1,5 +1,5 @@
 # Double Smoked Bacon
-Bacon is already smoked once, then you smoke it again. 
+Bacon is already smoked once. With this recipe, you smoke it again
 
 ### Ingredients
 
