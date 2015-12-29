@@ -1,16 +1,16 @@
-# double-smoked-bacon
+# Double Smoked Bacon
 Bacon is smoked once, then you smoke it again. 
 
-## Ingredients
+### Ingredients
 
 * 1lb Super Thick Cut Bacon
 
-##Tools
+###Tools
 
 * Electric or charcoal Smoker
 * Wood chips
 
-##Directions
+###Directions
 
 1. Fire up your smoker or grill.
 1. Get it nice and smoky with very few embers that can or will light on fire when delicious bacon grease kisses their edges. Bacon burns quickly and angels cry when this happens.
